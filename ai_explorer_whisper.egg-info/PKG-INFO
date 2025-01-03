@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: ai-explorer-whisper
+Version: 0.1.0
+Summary: Whisper integration for AI Explorer Interface
+Author: Your Name
+Requires-Python: >=3.8
+License-File: LICENSE
+Requires-Dist: openai-whisper
+Requires-Dist: streamlit
+Requires-Dist: torch
+Requires-Dist: torchaudio
+Requires-Dist: pytest
+Requires-Dist: numpy
+Requires-Dist: pandas

@@ -1,0 +1,7 @@
+openai-whisper
+streamlit
+torch
+torchaudio
+pytest
+numpy
+pandas

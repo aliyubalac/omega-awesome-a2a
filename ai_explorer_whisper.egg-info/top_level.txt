@@ -1,0 +1,3 @@
+ai-explorer
+whisper_app
+whisper_integration

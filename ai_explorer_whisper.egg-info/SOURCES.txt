@@ -1,0 +1,14 @@
+LICENSE
+README.md
+setup.py
+ai-explorer/__init__.py
+ai_explorer_whisper.egg-info/PKG-INFO
+ai_explorer_whisper.egg-info/SOURCES.txt
+ai_explorer_whisper.egg-info/dependency_links.txt
+ai_explorer_whisper.egg-info/requires.txt
+ai_explorer_whisper.egg-info/top_level.txt
+whisper_app/__init__.py
+whisper_app/model_handler.py
+whisper_integration/__init__.py
+whisper_integration/model_handler.py
+whisper_integration/setup.py
